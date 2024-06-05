@@ -1,0 +1,7 @@
+-- INSERT MULTIPLE ROWs QUERY 
+INSERT INTO personalinformation(name,Age,Datebirth,GENDER,PhoneNumber) 
+VALUES 
+("JAMES","19","2005-01-21","M",0422234937828),
+("john","19","2005-04-12","M",032178378738),
+("Khan","17","2005-03-29","M",034572892923),
+("Aysha","17","2003-10-10","F",034511122923);
